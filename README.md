@@ -1,0 +1,2 @@
+# Beijing-Housing-Market-Analytic-Quantitative-Predictive-Modeling-Approach
+The project uses multiple linear regression models to dissect the complexity of the Beijing real estate market. A large amount of housing data was utilized and carefully cleaned using AIC, BIC, and data visualization for the final model selection. Dataset: https://www.kaggle.com/code/aquaregis32/beijing-house-price-prediction
