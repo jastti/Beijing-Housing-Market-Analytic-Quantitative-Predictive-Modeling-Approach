@@ -5,7 +5,8 @@ The "Beijing Housing Market Analytic: Quantitative Predictive Modeling Approach"
 #### Files:
 *Final Project.pdf* is the written report of this project.<br><br>
 *BJ housing.rmd* is the R code of this project, which includes data cleansing, data visualization, and model selection.<br><br>
-*new.csv* is the original data downloaded from www.kaggle.com.<br>
+*new.csv* is the original data downloaded from www.kaggle.com.
+But it is too big to upload:(<br>
 <br>
 <br>
 #### Our Research Question: 
