@@ -2,6 +2,12 @@
 The "Beijing Housing Market Analytic: Quantitative Predictive Modeling Approach" project employs a Multi-Linear Regression Model to dissect the complexities of Beijing's real estate market. This in-depth analysis harnesses a vast array of housing data, cleansed meticulously to ensure precision in forecasting. The final model selection used AIC, BIC, and data visualization.
 <br>
 <br>
+#### Files:
+*Final Project.pdf* is the written report of this project.<br><br>
+*BJ housing.rmd* is the R code of this project, which includes data cleansing, data visualization, and model selection.<br><br>
+*new.csv* is the original data downloaded from www.kaggle.com.<br>
+<br>
+<br>
 #### Our Research Question: 
 How did building type, property size, number of living rooms, number of bathrooms, ladder of ratio, presence of an elevator, kitchen, drawing room, and proximity to a subway station collectively influence Beijing’s house market between 2011 and 2017?
 <br>
